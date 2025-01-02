@@ -12,8 +12,7 @@ It is still in the working preview phase, with some ontological flaws to be addr
 
 Here is a concept graph containing inter-related concepts. 
 
-<img width="255" alt="image" src="https://github.com/user-attachments/assets/69a097df-f845-4110-bb3d-208f77aafa18" /><img width="300" alt="image" src="https://github.com/user-attachments/assets/08bf7017-d879-4710-b0fb-804a698fc963" />
-
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/2068c55f-871f-4089-92ba-526e34d830b1" />
 
 ```
 Square
