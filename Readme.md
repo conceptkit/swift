@@ -30,13 +30,21 @@ Square.Result = 49
 
 Resolving `Test Square`, will trigger the resolving of `Square` by it's mention.
 
-### Inclusions
+A concept's inclusions are the elements within a concept. Numbers move between inclusions via the arrows. Vectors (conceptual arrows) can indicate directional dependency between inclusions.
 
-A concept's inclusions are the elements within a concept. Numbers move between inclusions via the arrows. Vectors (conceptual arrows) can indicate directional dependency between inclusions. Additionally, vectors can impose conditional constraints, controlling the flow of data between inclusions.
+Examples:
 
 `Pixel.Index + 1 -> Final Index`
 
 `Total / Count -> Average`
+
+Additionally, vectors can impose conditional constraints on the concept's resolution.
+
+Examples:
+
+`First.Object.Index >= Last.Object.Index`
+
+`Next.Object.Index = 1`
 
 All possible inclusion arithmetic combinations:
 - Add: +
