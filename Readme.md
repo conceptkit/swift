@@ -32,7 +32,7 @@ Resolving `Test Square`, will trigger the resolving of `Square` by it's mention.
 
 ### Inclusions
 
-A concept's inclusions are the elements within a concept. Numbers move between inclusions via the arrows. Vectors (conceptual arrows) can indicate directional dependency between inclusions. They can also represent arithmetic synthesis, where the output of one inclusion is used as input to another. Additionally, vectors can impose conditional constraints, controlling the flow of data between inclusions.
+A concept's inclusions are the elements within a concept. Numbers move between inclusions via the arrows. Vectors (conceptual arrows) can indicate directional dependency between inclusions. Additionally, vectors can impose conditional constraints, controlling the flow of data between inclusions.
 
 All possible inclusion arithmetic combinations:
 - Add: +
